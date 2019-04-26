@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="13075" started-at="2019-04-25T12:06:38Z" finished-at="2019-04-25T12:06:51Z">
+  <suite name="Suite" duration-ms="14817" started-at="2019-04-26T05:48:14Z" finished-at="2019-04-26T05:48:29Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="13075" started-at="2019-04-25T12:06:38Z" finished-at="2019-04-25T12:06:51Z">
-      <class name="com.demo.GetTittles">
-        <test-method status="PASS" signature="seleniumHQ()[pri:0, instance:com.demo.GetTittles@1ef7fe8e]" name="seleniumHQ" duration-ms="13051" started-at="2019-04-25T12:06:38Z" finished-at="2019-04-25T12:06:51Z">
+    <test name="Test" duration-ms="14817" started-at="2019-04-26T05:48:14Z" finished-at="2019-04-26T05:48:29Z">
+      <class name="com.demo.Demo2">
+        <test-method status="PASS" signature="seleniumHQ()[pri:0, instance:com.demo.Demo2@6aceb1a5]" name="seleniumHQ" duration-ms="14793" started-at="2019-04-26T05:48:14Z" finished-at="2019-04-26T05:48:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- seleniumHQ -->
-      </class> <!-- com.demo.GetTittles -->
+      </class> <!-- com.demo.Demo2 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
